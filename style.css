@@ -106,7 +106,6 @@ li a:hover {
 
 .middle_box {
   width: 100%;
-  border:2px solid orange;
   float: left;
   display: flex;
   justify-content: space-around;
@@ -359,14 +358,12 @@ li a:hover {
 
 .red-cont{
   width: 100%;
-  border: 2px solid red;
   display: flex;
   justify-content: space-around;
 }
 
 .blue-cont{
   width: 45%;
-  border: 2px solid blue;
   display: flex;
   flex-direction: column;
   margin: 20px;
@@ -375,7 +372,6 @@ li a:hover {
 .orange-cont{
   width: 100%;
   height: 500px;
-  border: 2px solid orange;
   display: flex;
   justify-content: space-around;
   background-size: cover;
@@ -471,13 +467,13 @@ li a:hover {
 
 .black-cont{
   width: 98%;
-  border: 2px solid black;
 }
 
 .title-bold, .title-bold1, .title-bold2{
   font-family: sans-serif;
   font-weight: bold;
   text-align: center;
+  margin-top: 20px;
 }
 
 .profi, .profi1, .profi2{
@@ -489,7 +485,6 @@ li a:hover {
 
 .blue-cont1{
   width: 45%;
-  border: 2px solid blue;
   display: flex;
   flex-direction: column;
   margin: 20px;
@@ -498,7 +493,6 @@ li a:hover {
 .orange-cont1{
   width: 100%;
   height: 500px;
-  border: 2px solid orange;
   display: flex;
   justify-content: space-around;
   background-image: url(img/photo_2021-08-25_16-05-132.jpg);
@@ -508,12 +502,10 @@ li a:hover {
 
 .black-cont1{
   width: 98%;
-  border: 2px solid black;
 }
 
 .blue-cont2{
   width: 45%;
-  border: 2px solid blue;
   display: flex;
   flex-direction: column;
   margin: 20px;
@@ -522,7 +514,6 @@ li a:hover {
 .orange-cont2{
   width: 100%;
   height: 500px;
-  border: 2px solid orange;
   display: flex;
   justify-content: space-around;
   background-image: url(img/photo_2021-08-25_16-05-133.jpg);
@@ -531,7 +522,6 @@ li a:hover {
 }
 .black-cont2{
   width: 98%;
-  border: 2px solid black;
 }
 
 .zagolovok, .zagolovok1, .zagolovok2{
